@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/pticasper/MyProject/_apis/build/status%2FPticasperOrg.CoreApp?branchName=master)](https://dev.azure.com/pticasper/MyProject/_build/latest?definitionId=18&branchName=master)
